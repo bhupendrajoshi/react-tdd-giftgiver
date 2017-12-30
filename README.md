@@ -2,6 +2,8 @@
 
 A web app to maintain list of gifts to give
 
+[![Build Status](https://travis-ci.org/bhupendrajoshi/react-tdd-giftgiver.svg?branch=master)](https://travis-ci.org/bhupendrajoshi/react-tdd-giftgiver)
+
 ## Install dependencies
 `yarn install`
 
